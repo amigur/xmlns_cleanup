@@ -1,4 +1,4 @@
 xmlns_cleanup
 =============
 
-Cleanup XML namespaces in specified order
+XML namespace cleanup in specified order
