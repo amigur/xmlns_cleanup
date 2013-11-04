@@ -68,7 +68,7 @@ def processfile(flname):
   
 # Print script usage
 def printusage(errorcode):
-  print("Usage:", bold, "nmsp files...")
+  print("Usage:", bold, "xmlns_cleanup files...")
   sys.exit(errorcode);
  
 # Check for arguments
